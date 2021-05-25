@@ -6,10 +6,10 @@ Program Language:
 * python
 
 Required Libraries:
-* [BeautifulSoup] (https://pypi.org/project/beautifulsoup4/) pip install beautifulsoup4
-* [requests] (https://pypi.org/project/requests/) pip install requests
-* [pandas] (https://pypi.org/project/pandas/) pip install pandas
-* [tqdm] (https://pypi.org/project/tqdm/) pip install tqdm
+* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) pip install beautifulsoup4
+* [requests](https://pypi.org/project/requests/) pip install requests
+* [pandas](https://pypi.org/project/pandas/) pip install pandas
+* [tqdm](https://pypi.org/project/tqdm/) pip install tqdm
 
 
 User Language:
