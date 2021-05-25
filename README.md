@@ -23,7 +23,7 @@ Follow me on these pages please :)
 
 Pictures from the program
 --------------------------------------
-![page link](/img/1.PNG)
+![page link](https://github.com/LegendarX/Veri-Cekme-Hepsiburada/blob/main/img/1.png)
 ![hepsiburada Page](../master/img/2.PNG)
 ![number of pages](../master/img/3.PNG)
 ![excel table name](../master/img/4.PNG)
