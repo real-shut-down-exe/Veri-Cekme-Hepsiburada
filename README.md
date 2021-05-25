@@ -1,5 +1,6 @@
 # Veri-Cekme-Hepsiburada
-İstenilene bir kategoriden istenilen sayfa kadar veri çekerek Excele aktaran bir programdır.
+* TR İstenilene bir kategoriden istenilen sayfa kadar veri çekerek Excele aktaran bir programdır.
+* ING A program that exports data from a desired category to Excel by pulling as much data as the desired page.
 
 Program Language:
 * python
