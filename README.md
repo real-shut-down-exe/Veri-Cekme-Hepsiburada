@@ -23,9 +23,9 @@ Follow me on these pages please :)
 
 Pictures from the program
 --------------------------------------
-![page link](../master/img/1.png)
-![hepsiburada Page](../master/img/2.png)
-![number of pages](../master/img/3.png)
-![excel table name](../master/img/4.png)
-![Saved](../master/img/5.png)
-![pulled data](../master/img/6.png)
+![page link](../master/img/1.PNG)
+![hepsiburada Page](../master/img/2.PNG)
+![number of pages](../master/img/3.PNG)
+![excel table name](../master/img/4.PNG)
+![Saved](../master/img/5.PNG)
+![pulled data](../master/img/6.PNG)
